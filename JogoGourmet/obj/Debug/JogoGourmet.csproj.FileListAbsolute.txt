@@ -1,0 +1,5 @@
+c:\users\mara rodrigues\documents\visual studio 2015\Projects\JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.exe.config
+c:\users\mara rodrigues\documents\visual studio 2015\Projects\JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.exe
+c:\users\mara rodrigues\documents\visual studio 2015\Projects\JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.pdb
+c:\users\mara rodrigues\documents\visual studio 2015\Projects\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.exe
+c:\users\mara rodrigues\documents\visual studio 2015\Projects\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.pdb
